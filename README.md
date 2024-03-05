@@ -11,7 +11,7 @@ Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](h
 
 
 # 2023:
-Mar 05: **A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- [Paper](https://arxiv.org/abs/2211.14730) [Official Code]()
+Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
 Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186)
 
