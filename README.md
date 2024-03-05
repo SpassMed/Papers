@@ -11,6 +11,8 @@ Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](h
 # 2023:
 Mar 05: **A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- [Paper](https://arxiv.org/abs/2211.14730) [Official Code]()
 
+Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186)
+
 Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 
 Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
