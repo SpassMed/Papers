@@ -22,7 +22,7 @@ Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Offi
 
 
 # 2022:
-
+Jan 7: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- [Paper](https://arxiv.org/abs/2106.13008)
 
 
 
