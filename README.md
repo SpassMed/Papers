@@ -13,19 +13,21 @@ Mar 05: **A Time Series is Worth 64 Words**: Long-term Forecasting with Transfor
 
 Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186)
 
-Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-
-Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
+Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
 Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Tsinghua University, Ant Group-  [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
 
-Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
+Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
+
+Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+
+
 
 
 
 
 # 2022:
-Jan 7: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- [Paper](https://arxiv.org/abs/2106.13008)
+Jan 07: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- [Paper](https://arxiv.org/abs/2106.13008)
 
 
 # 2021:
