@@ -26,7 +26,6 @@ Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Offi
 Jan 7: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- [Paper](https://arxiv.org/abs/2106.13008)
 
 
-
 # 2021:
 Jan 27: **Res2Net**: A New Multi-scale Backbone Architecture- [Paper](https://arxiv.org/abs/1904.01169) [Official Code]()
 Dec 19: **Masked Autoencoders** Are Scalable Vision Learners- [Paper](https://arxiv.org/abs/2111.06377) [Official Code]()
