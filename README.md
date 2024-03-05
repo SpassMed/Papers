@@ -10,6 +10,8 @@ A list of all the relevant papers along with their codes.
 
 # 2023:
 
+14 Oct: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+
 12 Oct: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
 
 05 Oct: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
