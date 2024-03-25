@@ -9,7 +9,7 @@ Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](h
 
 Mar 09: **S2IP-LLM**: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting- UConnecticut, Morgan Stanley- [Paper](https://arxiv.org/abs/2403.05798) 
 
-
+Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https://arxiv.org/abs/2403.07815v1) [Official Code](https://github.com/amazon-science/chronos-forecasting)
 
 
 # 2023:
