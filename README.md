@@ -3,7 +3,9 @@ A list of all the relevant papers along with their codes.
 
 # 2024:
 
-Jan 17: **RWKV-TS: Beyond Traditional Recurrent Neural Network for Time Series Tasks**: Applying RWKV on time-series data- [Paper](https://arxiv.org/abs/2401.09093) [Official Code](https://github.com/howard-hou/RWKV-TS)
+Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series Tasks: Applying RWKV on time-series data- [Paper](https://arxiv.org/abs/2401.09093) [Official Code](https://github.com/howard-hou/RWKV-TS)
+
+Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592)
 
 Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](https://arxiv.org/abs/2403.00131)   [Official Code](https://github.com/mims-harvard/UniTS)   [Our Code](https://github.com/SpassMed/UniTS)
 
