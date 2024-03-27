@@ -25,7 +25,9 @@ Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https
 # 2023:
 Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
-Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- Haixu Wu, Tsinghua University, [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
+Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- Haixu Wu, Tsinghua University- [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
+
+May 20: **CARD**: Channel Aligned Robust Blend Transformer for Time Series Forecasting- **ICLR 2024**- Alibaba- [Paper](https://arxiv.org/abs/2305.12095) [Official Code](https://github.com/wxie9/CARD)
 
 Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
@@ -34,7 +36,6 @@ Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Fo
 Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
 
 Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
-
 
 
 
