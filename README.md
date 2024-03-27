@@ -19,7 +19,7 @@ Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https
 # 2023:
 Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
-Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186)
+Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
 
 Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
