@@ -9,6 +9,8 @@ Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transf
 
 Feb 05: **Survey Paper**: Empowering Time Series Analysis with Large Language Models- Morgan Stanley- [Paper](https://arxiv.org/abs/2402.03182)
 
+Feb 06: - **MOMENT**: A Family of Open Time-series Foundation Models- CMU- [Paper](https://arxiv.org/abs/2402.03885) [Official Code](anonymous.4open.science/r/BETT-773F/)
+
 Feb 29: **TimeXer**: Empowering Transformers for Time Series Forecasting with Exogenous Variables- Haixu Wu, Tsinghua University- [Paper](https://arxiv.org/abs/2402.19072v1)
 
 Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](https://arxiv.org/abs/2403.00131)   [Official Code](https://github.com/mims-harvard/UniTS)   [Our Code](https://github.com/SpassMed/UniTS)
