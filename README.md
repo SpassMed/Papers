@@ -7,6 +7,8 @@ Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series
 
 Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592)
 
+Feb 05: **Survey Paper**: Empowering Time Series Analysis with Large Language Models- Morgan Stanley- [Paper](https://arxiv.org/abs/2402.03182)
+
 Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](https://arxiv.org/abs/2403.00131)   [Official Code](https://github.com/mims-harvard/UniTS)   [Our Code](https://github.com/SpassMed/UniTS)
 
 Mar 09: **S2IP-LLM**: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting- UConnecticut, Morgan Stanley- [Paper](https://arxiv.org/abs/2403.05798) 
