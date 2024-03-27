@@ -2,7 +2,6 @@
 A list of all the relevant papers along with their codes.
 
 # 2024:
-
 Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series Tasks: Applying RWKV on time-series data- [Paper](https://arxiv.org/abs/2401.09093) [Official Code](https://github.com/howard-hou/RWKV-TS)
 
 Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592)
@@ -23,6 +22,8 @@ Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https
 
 
 # 2023:
+Mar 01: **Time Series as Images**: Vision Transformer for Irregularly Sampled Time Series- **NeuriPS 2023**- [Paper](https://arxiv.org/abs/2303.12799) [Code](https://github.com/Leezekun/ViTST)
+
 Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
 Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- Haixu Wu, Tsinghua University- **ICLR 2023**- [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
