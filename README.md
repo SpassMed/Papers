@@ -9,6 +9,8 @@ Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transf
 
 Feb 05: **Survey Paper**: Empowering Time Series Analysis with Large Language Models- Morgan Stanley- [Paper](https://arxiv.org/abs/2402.03182)
 
+Feb 29: **TimeXer**: Empowering Transformers for Time Series Forecasting with Exogenous Variables- Haixu Wu, Tsinghua University- [Paper](https://arxiv.org/abs/2402.19072v1)
+
 Feb 29: **UniTS**: Building a Unified Time Series Model- Harvard, MIT- [Paper](https://arxiv.org/abs/2403.00131)   [Official Code](https://github.com/mims-harvard/UniTS)   [Our Code](https://github.com/SpassMed/UniTS)
 
 Mar 09: **S2IP-LLM**: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting- UConnecticut, Morgan Stanley- [Paper](https://arxiv.org/abs/2403.05798) 
@@ -19,11 +21,11 @@ Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https
 # 2023:
 Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
-Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
+Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- Haixu Wu, Tsinghua University, [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
 
 Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
-Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Tsinghua University, Ant Group-  [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
+Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Haixu Wu, Tsinghua University, Ant Group-  [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
 
 Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
 
