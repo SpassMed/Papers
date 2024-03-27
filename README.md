@@ -7,6 +7,8 @@ Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series
 
 Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592)
 
+Feb 04: **Pathformer**: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting- Alibaba- [Paper](https://arxiv.org/abs/2402.05956) [Code](https://github.com/decisionintelligence/pathformer)
+
 Feb 05: **Survey Paper**: Empowering Time Series Analysis with Large Language Models- Morgan Stanley- [Paper](https://arxiv.org/abs/2402.03182)
 
 Feb 06: - **MOMENT**: A Family of Open Time-series Foundation Models- CMU- [Paper](https://arxiv.org/abs/2402.03885) [Official Code](anonymous.4open.science/r/BETT-773F/)
