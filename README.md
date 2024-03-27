@@ -37,10 +37,10 @@ Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting
 
 
 # 2022:
-Jan 07: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- [Paper](https://arxiv.org/abs/2106.13008)
+Jan 07: **Autoformer**: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting- **NeurIPS 2021**- Haixu Wu, Tsinghua University- [Paper](https://arxiv.org/abs/2106.13008) [Official Code](https://github.com/thuml/Autoformer)
 
 
 # 2021:
 Jan 27: **Res2Net**: A New Multi-scale Backbone Architecture- [Paper](https://arxiv.org/abs/1904.01169) [Official Code]()
 
-Dec 19: **Masked Autoencoders** Are Scalable Vision Learners- [Paper](https://arxiv.org/abs/2111.06377) [Official Code]()
+Dec 19: **Masked Autoencoders** Are Scalable Vision Learners- [Paper](https://arxiv.org/abs/2111.06377) [Official Code](https://github.com/facebookresearch/mae)
