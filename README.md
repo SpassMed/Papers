@@ -30,11 +30,11 @@ Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series F
 
 Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
 
-Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Haixu Wu, Tsinghua University, Ant Group-  [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
+Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Haixu Wu, Tsinghua University, Ant Group- [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
 
 Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
-Sept 11: **TSMixer**: An All-MLP Architecture for Time Series Forecasting- **TMLR**- Google Cloud- [Paper](https://arxiv.org/abs/2303.06053) [Official code](https://github.com/thuml/Time-Series-Library/tree/main/models)
+Sept 11: **TSMixer**: An All-MLP Architecture for Time Series Forecasting- **TMLR**- Google Cloud- [Paper](https://arxiv.org/abs/2303.06053) [Official Code](https://github.com/google-research/google-research/tree/master/tsmixer) [Time Series Library](https://github.com/thuml/Time-Series-Library/tree/main/models)
 
 May 20: **CARD**: Channel Aligned Robust Blend Transformer for Time Series Forecasting- **ICLR 2024**- Alibaba- [Paper](https://arxiv.org/abs/2305.12095) [Official Code](https://github.com/wxie9/CARD)
 
