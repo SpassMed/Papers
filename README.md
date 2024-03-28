@@ -49,6 +49,6 @@ Jan 07: **Autoformer**: Decomposition Transformers with Auto-Correlation for Lon
 
 
 # 2021:
-Jan 27: **Res2Net**: A New Multi-scale Backbone Architecture- [Paper](https://arxiv.org/abs/1904.01169) [Official Code]()
+Jan 27: **Res2Net**: A New Multi-scale Backbone Architecture- [Paper](https://arxiv.org/abs/1904.01169) [Official Code](https://github.com/Res2Net)
 
 Dec 19: **Masked Autoencoders** Are Scalable Vision Learners- [Paper](https://arxiv.org/abs/2111.06377) [Official Code](https://github.com/facebookresearch/mae)
