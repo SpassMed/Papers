@@ -34,11 +34,11 @@ Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Fo
 
 Oct 05: **TimeGPT-1**: Nixtla-  [Paper](https://arxiv.org/abs/2310.03589)  [Official API](https://github.com/Nixtla/nixtla)
 
-Sept 11: **TSMixer**: An All-MLP Architecture for Time Series Forecasting- **TMLR**- Google Cloud- [Paper](https://arxiv.org/abs/2303.06053) [Official Code](https://github.com/google-research/google-research/tree/master/tsmixer) [Time Series Library](https://github.com/thuml/Time-Series-Library/tree/main/models)
-
 May 20: **CARD**: Channel Aligned Robust Blend Transformer for Time Series Forecasting- **ICLR 2024**- Alibaba- [Paper](https://arxiv.org/abs/2305.12095) [Official Code](https://github.com/wxie9/CARD)
 
 Apr 23: **TimesNet**: Temporal 2D-Variation Modeling for General Time Series Analysis- Haixu Wu, Tsinghua University- **ICLR 2023**- [Paper](https://arxiv.org/abs/2210.02186) [Official Code](https://github.com/thuml/TimesNet)
+
+Mar 10: **TSMixer**: An All-MLP Architecture for Time Series Forecasting- **TMLR 2023**- Google Cloud- [Paper](https://arxiv.org/abs/2303.06053) [Official Code](https://github.com/google-research/google-research/tree/master/tsmixer) [Time Series Library](https://github.com/thuml/Time-Series-Library/tree/main/models)
 
 Mar 05: **PatchTST: A Time Series is Worth 64 Words**: Long-term Forecasting with Transformers- **ICLR 2023**-  [Paper](https://arxiv.org/abs/2211.14730)  [Official Code](https://github.com/yuqinie98/PatchTST)
 
