@@ -55,3 +55,5 @@ Dec 19: **Masked Autoencoders** Are Scalable Vision Learners- [Paper](https://ar
 
 Jan 27: **Res2Net**: A New Multi-scale Backbone Architecture- [Paper](https://arxiv.org/abs/1904.01169) [Official Code](https://github.com/Res2Net)
 
+# 2019:
+Dec 19: **TFT**: Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting- [Paper](https://arxiv.org/abs/1912.09363) [Official Code](https://github.com/google-research/google-research/tree/master/tft)
