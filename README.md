@@ -16,7 +16,7 @@ Feb 05: **Survey Paper**: Empowering Time Series Analysis with Large Language Mo
 
 Feb 04: **Pathformer**: Multi-scale Transformers with Adaptive Pathways for Time Series Forecasting- **ICLR 2024**- Alibaba- [Paper](https://arxiv.org/abs/2402.05956) [Official Code](https://github.com/decisionintelligence/pathformer)
 
-Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592)
+Feb 04: **MOIRAI**: Unified Training of Universal Time Series Forecasting Transformers- SalesForce- [Paper](https://arxiv.org/abs/2402.02592) [Official Code](https://github.com/SalesforceAIResearch/uni2ts) 
 
 
 Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series Tasks: Applying RWKV on time-series data- [Paper](https://arxiv.org/abs/2401.09093) [Official Code](https://github.com/howard-hou/RWKV-TS)
