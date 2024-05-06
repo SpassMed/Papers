@@ -4,7 +4,7 @@ A list of all the relevant papers along with their codes.
 # 2024:
 Mar 21: **A Tutorial and Survey**: Foundation Models for Time Series Analysis- Monash, Princeton-  [Paper](https://arxiv.org/abs/2403.14735)
 
-Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https://arxiv.org/abs/2403.07815v1) [Official Code](https://github.com/amazon-science/chronos-forecasting)
+Mar 12: **Chronos**: Learning the Language of Time Series- Amazon- [Paper](https://arxiv.org/abs/2403.07815) [Official Code](https://github.com/amazon-science/chronos-forecasting)
 
 Mar 09: **S2IP-LLM**: Semantic Space Informed Prompt Learning with LLM for Time Series Forecasting- UConnecticut, Morgan Stanley- [Paper](https://arxiv.org/abs/2403.05798) 
 
