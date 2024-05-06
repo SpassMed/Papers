@@ -28,9 +28,9 @@ Jan 17: **RWKV-TS**: Beyond Traditional Recurrent Neural Network for Time Series
 # 2023:
 Nov 30: **MultiResFormer**: Transformer with Adaptive Multi-Resolution Modeling for General Time Series Forecasting- Layer6, Vector- [Paper](https://arxiv.org/abs/2311.18780v2)
 
-Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
-
 Oct 14: **TimesFM**: A decoder-only foundation model for time-series forecasting- Google-  [Paper](https://arxiv.org/abs/2310.10688)  [Official Blog](https://blog.research.google/2024/02/a-decoder-only-foundation-model-for.html)
+
+Oct 12: **Lag-Llama**: Towards Foundation Models for Probabilistic Time Series Forecasting- Morgan Stanley, Mila, UMontreal, McGill-  [Paper](https://arxiv.org/abs/2310.08278)  [Official Code](https://github.com/time-series-foundation-models/lag-llama)
 
 Oct 10: **iTransformer**: Inverted Transformers Are Effective for Time Series Forecasting, **ICLR 2024**- Haixu Wu, Tsinghua University, Ant Group- [Paper](https://arxiv.org/abs/2310.06625)  [Official Code](https://github.com/thuml/iTransformer)
 
